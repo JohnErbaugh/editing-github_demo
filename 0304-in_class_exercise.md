@@ -16,7 +16,7 @@ March 4th, 2015
 
 1. Patients should try to avoid going up and down stairs themselves.
 2. The candidate decided to launch her campaign.
-3. We decided actually to enforce the law.
+3. We decided to enforce the law.
 
 ## Dangling Modifiers:
 
